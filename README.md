@@ -7,6 +7,6 @@ We use the algorithms:
 4.SARIMA.
 
 for the full results check in the PDF.
-all the codes inside the ipynb.
+all the codes inside the ipynb file.
 
 
